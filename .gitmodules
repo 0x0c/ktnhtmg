@@ -1,3 +1,6 @@
 [submodule "dependencies/dictation-kit"]
 	path = dependencies/dictation-kit
 	url = git@github.com:julius-speech/dictation-kit.git
+[submodule "dependencies/grammar-kit"]
+	path = dependencies/grammar-kit
+	url = git@github.com:julius-speech/grammar-kit.git
